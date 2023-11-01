@@ -1,3 +1,10 @@
+
+
+
+https://github.com/KseGreb/useContext-changeColor/assets/110953599/8340adf8-b5a2-4e22-b50f-b5659d9428d3
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
